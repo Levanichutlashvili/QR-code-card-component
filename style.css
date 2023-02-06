@@ -1,0 +1,31 @@
+body{
+    background-color: #D5E1EF;
+}
+.container{
+    width: 320px;
+    background-color: white;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+    left: 560px;
+    top: 152px;
+}
+.container1{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.container2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+}
+.container3{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
